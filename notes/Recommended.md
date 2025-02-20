@@ -1,0 +1,3 @@
+- Read [Effective Go](https://go.dev/doc/effective_go)
+- Read [Go Code Review Comment](https://go.dev/wiki/CodeReviewComments)
+- 
