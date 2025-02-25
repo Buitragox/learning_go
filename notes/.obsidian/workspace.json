@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "61078dfc7d14544e",
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. Types, Methods and Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 7. Types, Methods and Interfaces"
             }
           },
           {
@@ -158,8 +160,7 @@
               "title": "History"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,10 +180,10 @@
   },
   "active": "96de164dc26d5763",
   "lastOpenFiles": [
+    "6. Pointers.md",
+    "7. Types, Methods and Interfaces.md",
     "Recommended.md",
     "Go Tooling.md",
-    "7. Types, Methods and Interfaces.md",
-    "6. Pointers.md",
     "5. Functions.md",
     "4. Blocks, Shadows and Control Structures.md",
     "3. Composite Types.md",
